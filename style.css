@@ -198,3 +198,8 @@ span{
     gap: 20px;
     justify-content: space-around;
 }
+
+.footer li{
+    list-style-type: none;
+    margin-top: 12px;
+}
