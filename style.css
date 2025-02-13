@@ -1,3 +1,7 @@
+body{
+    background-image: url(./images/bg-header-desktop.png);
+}
+
 .head img{
     margin-left: 630px;
     margin-top: 80px;
